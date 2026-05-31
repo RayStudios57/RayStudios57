@@ -34,26 +34,20 @@ When I'm not tweaking Supabase database structures or prompting code editors, yo
 
 ---
 
-## 📈 GitHub Stats
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Your GitHub Stats" height="180px" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
-</p>
+## 🎯 Future Milestones & Goals
+I am a rising 9th grader with long-term sights set on high-impact tech, leadership, and elite university programs (like MIT). Over the next four years, I am focused on building the ultimate portfolio through:
+* 🏆 **Competitive Problem Solving:** Diving into algorithmic thinking for the **USACO** (USA Computing Olympiad) and preparing for the **AMC 10** math competition.
+* 🏛️ **Leadership & Impact:** Planning to run for student leadership and NHS tracks by initiating real-world, tech-driven programs for my school community.
+* 💼 **Early Opportunities:** Seeking freshman-friendly tech internships, hackathons, and volunteer projects where I can apply full-stack development to solve actual problems.
 
-***
+---
 
-
-<!--
+## 💬 Connect & Status
+* 🔭 **Current Focus:** Scaling **LunchLIT** to prepare for the high school launch and refining my rapid-prototyping workflows.
+* 🤝 **Open to:** Freshman internships, high school hackathons, and open-source vibe-coding sessions.
 **RayStudios57/RayStudios57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... my video game The Dark Trilogy
-- 🌱 I’m currently learning ... How to use Gamemaker Studio 2
-- 👯 I’m looking to collaborate on ... nothing...
-- 🤔 I’m looking for help with ... everything
-- 📫 How to reach me: ... just email or call me
-- 😄 Pronouns: ...He/Him or a loaf of bread
-- ⚡ Fun fact: ... I am probably not a loaf of bread
 -->

@@ -26,28 +26,23 @@ I specialize in rapid prototyping—using AI-assisted workflows to build out fea
 ---
 
 ## 🌌 Beyond the Code
-When I'm not tweaking Supabase database structures or prompting code editors, you can find me:
-* 🃏 **Collecting & Trading:** Tracking market trends, bidding, and hunting down rare Pokémon cards (always looking for that next Holy Grail card).
-* ♟️ **Strategy & Tactics:** Analyzing tactical lines in competitive chess or theorycrafting optimal roguelike runs and game mechanics (*Balatro*, *Persona 5 Royal*, *Honkai Star Rail*).
-* ✍️ **Creative Writing:** Creating an original animated series titled ***Darkness***.
-* 🏀 **On the Court:** Playing basketball and soccer, staying active, and working on team chemistry.
-
----
+When I'm not tweaking Supabase database structures or prompting code editors, you can find me:[cite: 1]
+* 🃏 **Collecting & Trading:** Tracking market trends, bidding, and hunting down rare Pokémon cards (always looking for that next Holy Grail card)[cite: 1].
+* ♟️ **Strategy & Gaming:** Analyzing tactical lines in competitive chess, figuring out the best character setups in *Honkai Star Rail*, or just enjoying the deep story and strategy in a *Persona* game[cite: 1].
+* ✍️ **Creative Writing:** Scripting and designing an original independent animated series titled ***Darkness***[cite: 1].
+* 🏀 **On the Court & Field:** Playing basketball and soccer to stay active, build endurance, and work on team chemistry[cite: 1].
 
 ---
 
 ## 🎯 Future Milestones & Goals
-I am a rising 9th grader with long-term sights set on high-impact tech, leadership, and elite university programs (like MIT). Over the next four years, I am focused on building the ultimate portfolio through:
-* 🏆 **Competitive Problem Solving:** Diving into algorithmic thinking for the **USACO** (USA Computing Olympiad) and preparing for the **AMC 10** math competition.
-* 🏛️ **Leadership & Impact:** Planning to run for student leadership and NHS tracks by initiating real-world, tech-driven programs for my school community.
-* 💼 **Early Opportunities:** Seeking freshman-friendly tech internships, hackathons, and volunteer projects where I can apply full-stack development to solve actual problems.
+I am a rising 9th grader with long-term sights set on high-impact tech, leadership, and elite university programs (like MIT)[cite: 1]. Over the next four years, I am focused on building the ultimate portfolio through:
+* 🏆 **Competitive STEM Tracking:** Diving into algorithmic thinking for the **USACO** (USA Computing Olympiad), prepping for the **National Science Olympiad**, and training for the **AMC 10** math competition[cite: 1].
+* 🌎 **Academic Excellence:** Working hard toward the **Seal of Biliteracy** test to add strong language foundations to my profile[cite: 1].
+* 🏛️ **Leadership & Impact:** Aiming to run for student leadership or NHS tracks by founding a school coding club and initiating tech-driven programs for my peers[cite: 1].
+* 💼 **Early Opportunities:** Seeking freshman-friendly tech opportunities (like the **JPMorgan Chase internship**), hackathons, and projects where I can use full-stack development to solve real problems[cite: 1].
 
 ---
 
 ## 💬 Connect & Status
-* 🔭 **Current Focus:** Scaling **LunchLIT** to prepare for the high school launch and refining my rapid-prototyping workflows.
-* 🤝 **Open to:** Freshman internships, high school hackathons, and open-source vibe-coding sessions.
-**RayStudios57/RayStudios57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
+* 🔭 **Current Focus:** Scaling **LunchLIT** to prepare for the high school launch and refining my rapid-prototyping workflows[cite: 1].
+* 🤝 **Open to:** Freshman internships, high school hackathons, and open-source vibe-coding sessions[cite: 1].

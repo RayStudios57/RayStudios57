@@ -20,9 +20,10 @@ I specialize in rapid prototyping—using AI-assisted workflows to build out fea
 
 ### 🎛️ Backend & Environment
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF4154?style=for-the-badge&logo=lightning&logoColor=white)
+![Firecrawl](https://img.shields.io/badge/Firecrawl-F15A24?style=for-the-badge&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23f05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=5c5cff)
 
 ---
 

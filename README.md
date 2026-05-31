@@ -8,7 +8,7 @@ I'm an incoming 9th-grade developer, builder, and vibe-coder based in Chicago. I
 
 ---
 
-## ⚡ My Vibe-Coding Stack
+## ⚡ My Coding Stack
 I specialize in rapid prototyping—using AI-assisted workflows to build out features, handle state management, and deploy full-stack apps before the coffee gets cold.
 
 ### 💻 Frontend & Languages

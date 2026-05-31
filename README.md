@@ -30,8 +30,8 @@ I specialize in rapid prototyping—using AI-assisted workflows to build out fea
 ## 🌌 Beyond the Code
 When I'm not tweaking Supabase database structures or prompting code editors, you can find me:
 * 🃏 **Collecting & Trading:** Tracking market trends, bidding, and hunting down rare Pokémon cards (always looking for that next Holy Grail card).
-* ♟️ **Strategy & Gaming:** Analyzing tactical lines in competitive chess, figuring out the best character setups in *Honkai Star Rail*, or just enjoying the deep story and strategy in a *Persona* game.
-* ✍️ **Creative Writing:** Scripting and designing an original independent animated series titled ***Darkness***.
+* ♟️ **Strategy & Gaming:** Learning new tactics for competitive chess, figuring out the best character setups in *Honkai Star Rail*, or just enjoying the deep story and strategy in a *Persona* game.
+* ✍️ **Creative Writing:** Creating an original independent animated series titled ***Darkness***.
 * 🏀 **On the Court & Field:** Playing basketball and soccer to stay active, build endurance, and work on team chemistry.
 
 ---

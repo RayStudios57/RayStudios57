@@ -1,15 +1,10 @@
 # Hi there, I'm Ram! 👋
 
-I'm an incoming 9th-grade developer, builder, and vibe-coder based in Chicago. I love using modern AI workflows, TypeScript, and cloud tech to turn ideas into working applications at lightning speed.
 
 ## 🚀 What I'm Building
 * **[LunchLIT](https://lunchlit.lovable.app)** - A full-stack student productivity web app built to help students effortlessly organize their school life. 
   * *Awarded the **Code Your Dreams "Builder Award"** (April 2026).*
 
----
-
-## ⚡ My Coding Stack
-I specialize in rapid prototyping—using AI-assisted workflows to build out features, handle state management, and deploy full-stack apps before the coffee gets cold.
 
 ### 💻 Frontend & Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,8 +32,8 @@ When I'm not tweaking Supabase database structures or prompting code editors, yo
 ---
 
 ## 🎯 Future Milestones & Goals
-I am a rising 9th grader with long-term sights set on high-impact tech, leadership, and elite university programs (like MIT). Over the next four years, I am focused on building the ultimate portfolio through:
-* 🏆 **Competitive STEM Tracking:** Diving into algorithmic thinking for the **USACO** (USA Computing Olympiad), prepping for the **National Science Olympiad**, and training for the **AMC 10** math competition.
+I am a 9th grader with long-term sights set on high-impact tech, leadership, and elite university programs (like MIT). Over the next four years, I am focused on building the ultimate portfolio through:
+* 🏆 **Competitive STEM Tracking:** Diving into algorithmic thinking for the **USACO** (USA Computing Olympiad).
 * 🌎 **Academic Excellence:** Working hard toward the **Seal of Biliteracy** test to add strong language foundations to my profile.
 * 🏛️ **Leadership & Impact:** Aiming to run for student leadership or NHS tracks by founding a school coding club and initiating tech-driven programs for my peers.
 * 💼 **Early Opportunities:** Seeking freshman-friendly tech opportunities (like the **JPMorgan Chase internship**), hackathons, and projects where I can use full-stack development to solve real problems.

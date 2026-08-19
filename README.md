@@ -20,23 +20,8 @@
 ![Git](https://img.shields.io/badge/git-%23f05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
 
-## 🌌 Beyond the Code
-When I'm not tweaking Supabase database structures or prompting code editors, you can find me:
-* 🃏 **Collecting & Trading:** Tracking market trends, bidding, and hunting down rare Pokémon cards (always looking for that next Holy Grail card).
-* ♟️ **Strategy & Gaming:** Learning new tactics for competitive chess, figuring out the best character setups in *Honkai Star Rail*, or just enjoying the deep story and strategy in a *Persona* game.
-* ✍️ **Creative Writing:** Creating an original independent animated series titled ***Darkness***.
-* 🏀 **On the Court & Field:** Playing basketball and soccer to stay active, build endurance, and work on team chemistry.
 
----
-
-## 🎯 Future Milestones & Goals
-I am a 9th grader with long-term sights set on high-impact tech, leadership, and elite university programs (like MIT). Over the next four years, I am focused on building the ultimate portfolio through:
-* 🏆 **Competitive STEM Tracking:** Diving into algorithmic thinking for the **USACO** (USA Computing Olympiad).
-* 🌎 **Academic Excellence:** Working hard toward the **Seal of Biliteracy** test to add strong language foundations to my profile.
-* 🏛️ **Leadership & Impact:** Aiming to run for student leadership or NHS tracks by founding a school coding club and initiating tech-driven programs for my peers.
-* 💼 **Early Opportunities:** Seeking freshman-friendly tech opportunities (like the **JPMorgan Chase internship**), hackathons, and projects where I can use full-stack development to solve real problems.
 
 ---
 

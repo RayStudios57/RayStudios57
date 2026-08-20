@@ -2,7 +2,7 @@
 
 
 ## 🚀 What I'm Building
-* **[LunchLIT](https://lunchlit.lovable.app)** - A full-stack student productivity web app built to help students effortlessly organize their school life. 
+* **[LunchLIT](https://lunch-lit.vercel.app)** - A full-stack student productivity web app built to help students effortlessly organize their school life. 
   * *Awarded the **Code Your Dreams "Builder Award"** (April 2026).*
 
 
